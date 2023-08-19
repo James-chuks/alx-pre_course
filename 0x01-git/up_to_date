@@ -1,1 +1,2 @@
-the git command line used
+git fetch origin master
+git merge origin/master
